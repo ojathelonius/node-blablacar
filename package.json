@@ -1,0 +1,21 @@
+{
+  "name": "node-blablacar",
+  "version": "1.0.0",
+  "description": "NodeJS wrapper for Blablacar API",
+  "main": "dist/blablacarClient.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src --out-dir dist"
+  },
+  "author": "ojathelonius",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1"
+  },
+  "dependencies": {
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  }
+}
