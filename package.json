@@ -7,7 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "babel src --out-dir dist"
   },
-  "author": "ojathelonius",
+  "keywords": ["blablacar", "rest", "api", "node", "nodejs", "wrapper"],
+  "author": "Louis Johanet <louis@johanet.fr>",
   "license": "ISC",
   "devDependencies": {
     "babel-cli": "^6.26.0",
@@ -17,5 +18,9 @@
   "dependencies": {
     "request": "^2.83.0",
     "request-promise": "^4.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ojathelonius/node-blablacar.git"
   }
 }
