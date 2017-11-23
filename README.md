@@ -2,6 +2,11 @@
 
 This NPM module allows you easily to retrieve data from Blablacar through their API.
 
+## Todo
+
+* Update as the Blablacar API changes
+* Use ES6 promises instead of callbacks
+
 ## Installation
 
 Install with [npm](http://npmjs.org/):
