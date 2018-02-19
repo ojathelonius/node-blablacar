@@ -41,7 +41,7 @@ var client = new BlablacarClient("your_api_key");
 ```
 
 
-Run a trip search with given parameters (see full list of parameters [here](https://dev.blablacar.com/docs/versions/1.0/resources/trips/endpoints/list-dingbats)
+Run a trip search with given parameters (see full list of parameters [here](https://dev.blablacar.com/docs/versions/1.0/resources/trips/endpoints/list-dingbats))
 
 ```javascript
 
